@@ -1,5 +1,5 @@
 <div> Div1 </div>
-<?php 
+<?php
 echo "Vishal sharma\n";
 
 if (1==1){
@@ -12,5 +12,6 @@ if (1==1){
 
 <h2> Aakash knows everything </h2>
 
-<?php } ?>
+Vishal
 
+<?php } ?>
